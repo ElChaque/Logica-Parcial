@@ -1,0 +1,15 @@
+C:\Users\AlanA\source\repos\Examen P. N°2 - 1er Año 2023\Examen P. N°2 - 1er Año 2023\bin\Debug\Examen_P.N_2___1er_Año_2023.exe.config
+C:\Users\AlanA\source\repos\Examen P. N°2 - 1er Año 2023\Examen P. N°2 - 1er Año 2023\bin\Debug\Examen_P.N_2___1er_Año_2023.exe
+C:\Users\AlanA\source\repos\Examen P. N°2 - 1er Año 2023\Examen P. N°2 - 1er Año 2023\bin\Debug\Examen_P.N_2___1er_Año_2023.pdb
+C:\Users\AlanA\source\repos\Examen P. N°2 - 1er Año 2023\Examen P. N°2 - 1er Año 2023\bin\Debug\Examen_P.N_2___1er_Año_2023.xml
+C:\Users\AlanA\source\repos\Examen P. N°2 - 1er Año 2023\Examen P. N°2 - 1er Año 2023\obj\Debug\Examen P. N°2 - 1er Año 2023.vbproj.AssemblyReference.cache
+C:\Users\AlanA\source\repos\Examen P. N°2 - 1er Año 2023\Examen P. N°2 - 1er Año 2023\obj\Debug\Examen_P.N_2___1er_Año_2023.Resources.resources
+C:\Users\AlanA\source\repos\Examen P. N°2 - 1er Año 2023\Examen P. N°2 - 1er Año 2023\obj\Debug\Examen P. N°2 - 1er Año 2023.vbproj.GenerateResource.cache
+C:\Users\AlanA\source\repos\Examen P. N°2 - 1er Año 2023\Examen P. N°2 - 1er Año 2023\obj\Debug\Examen P. N°2 - 1er Año 2023.vbproj.CoreCompileInputs.cache
+C:\Users\AlanA\source\repos\Examen P. N°2 - 1er Año 2023\Examen P. N°2 - 1er Año 2023\obj\Debug\Examen_P.N_2___1er_Año_2023.exe
+C:\Users\AlanA\source\repos\Examen P. N°2 - 1er Año 2023\Examen P. N°2 - 1er Año 2023\obj\Debug\Examen_P.N_2___1er_Año_2023.xml
+C:\Users\AlanA\source\repos\Examen P. N°2 - 1er Año 2023\Examen P. N°2 - 1er Año 2023\obj\Debug\Examen_P.N_2___1er_Año_2023.pdb
+C:\Users\AlanA\source\repos\Examen P. N°2 - 1er Año 2023\Examen P. N°2 - 1er Año 2023\obj\Debug\Examen_P.N_2___1er_Año_2023.FrmLoguin.resources
+C:\Users\AlanA\source\repos\Examen P. N°2 - 1er Año 2023\Examen P. N°2 - 1er Año 2023\obj\Debug\Examen_P.N_2___1er_Año_2023.FrmMain.resources
+C:\Users\AlanA\source\repos\Examen P. N°2 - 1er Año 2023\Examen P. N°2 - 1er Año 2023\obj\Debug\Examen_P.N_2___1er_Año_2023.frmLote.resources
+C:\Users\AlanA\source\repos\Examen P. N°2 - 1er Año 2023\Examen P. N°2 - 1er Año 2023\obj\Debug\Examen_P.N_2___1er_Año_2023.FrmCambio.resources
